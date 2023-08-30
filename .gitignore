@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env 
+# github에 key 값을 업로드 하진 말도록 하자.
